@@ -1,16 +1,28 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<!--
-**roprop1/roprop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![age](https://img.shields.io/badge/age-17-blue)
+![living](https://img.shields.io/badge/living-Israel-3c9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🌱 I’m currently learning c#, c++, typescript. 
+- 🤔 I’m looking for partners for project.
+- 💼 i’m a full web programmer.
+- 📫 How to reach me: rop_rop#1686 on discord.
+<br />
+
+
+
+
+<div align="center">
+
+  
+
+</div>
+
+<br >
+
+
+
+
