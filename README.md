@@ -26,6 +26,6 @@ ALL OVER US.
 
 <br >
 
-[![rop_rop]( https://discord.c99.nl/widget/theme-2/352555012469293059.png) ](https://discord.com/users/352555012469293059)
+[![rop_rop](https://discord.c99.nl/widget/theme-2/352555012469293059.png) ](https://discord.com/users/352555012469293059)
 
 
