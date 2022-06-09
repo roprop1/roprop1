@@ -28,4 +28,5 @@ ALL OVER US.
 
 <!-- [![rop_rop](https://discord.c99.nl/widget/theme-3/352555012469293059.png) ](https://discord.com/users/352555012469293059) -->
 ## [![Discord Presence](https://lanyard.cnrad.dev/api/352555012469293059)](https://discord.com/users/352555012469293059)
+## ![GITHDDUB](https://github-readme-stats.vercel.app/api/top-langs/?username=roprop1&show_icon=ture&theme=radical)
 ## ![GITHUB](https://github-readme-stats.vercel.app/api?username=roprop1&count_private=true&show_icons=true&theme=radical)
