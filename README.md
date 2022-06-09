@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-![age](https://img.shields.io/badge/age-17-blue/center)
+![age](https://img.shields.io/badge/age-17-blue/)
 ![living](https://img.shields.io/badge/living-Israel-3c9)
 
 
