@@ -4,7 +4,7 @@
 ![age](https://img.shields.io/badge/age-17-blue)
 ![living](https://img.shields.io/badge/living-Israel-3c9)
 
-<img width="50%" align="left" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning c#, c++, typescript. 
 - 🤔 I’m looking for partners for project.
